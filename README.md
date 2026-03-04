@@ -99,6 +99,7 @@
 - [TradingView](https://www.tradingview.com/) - A popular charting and analysis platform for altcoins.
 - [CoinMarketCal](https://coinmarketcal.com/) - A calendar for tracking important events and updates for altcoins.
 - [CryptoCompare](https://www.cryptocompare.com/) - A platform for comparing cryptocurrency prices and data.
+- [ChartScout](https://chartscout.io/) - Real Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds.
 
 ## Mining
 
