@@ -99,6 +99,7 @@
 - [TradingView](https://www.tradingview.com/) - A popular charting and analysis platform for altcoins.
 - [CoinMarketCal](https://coinmarketcal.com/) - A calendar for tracking important events and updates for altcoins.
 - [CryptoCompare](https://www.cryptocompare.com/) - A platform for comparing cryptocurrency prices and data.
+- [CryptoCalk](https://cryptocalk.com) - Free crypto calculator suite (100+ tools): mining profitability, DCA simulator, staking rewards, tax estimator, profit/loss, impermanent loss, liquidation price, portfolio risk metrics (Sharpe, Sortino, VaR). 6 languages, client-side, no signup.
 
 ## Mining
 
