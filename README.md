@@ -48,6 +48,7 @@
 - [Solana.com](https://solana.com/) - The official website for Solana.
 - [Solscan](https://solscan.io/) - A block explorer for Solana.
 - [Phantom Wallet](https://phantom.app/) - A popular Solana wallet.
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or Solana program ID and alerts on Telegram when a new transaction shows up, no external database, ready in 5 minutes.
 
 ### Polkadot (DOT)
 - [Polkadot.network](https://polkadot.network/) - The official website for Polkadot.
